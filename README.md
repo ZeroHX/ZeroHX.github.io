@@ -1,6 +1,9 @@
 # Welcome to My GitHub Pages
 Plz follow me !!
 
+## Lastest Repository
+- [Network-Script](https://github.com/ZeroHX/Network-Script)
+
 ## My Top Repositories
 - [BananaGame](https://zerohx.github.io/BananaGame/)
 - [C-Learning](https://zerohx.github.io/C-Learning/)
